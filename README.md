@@ -1,4 +1,4 @@
-# Traitors
+# Traitors-light
 
 Minecraft version: 1.21.7 - 1.21.8
 
